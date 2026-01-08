@@ -82938,7 +82938,7 @@ s.toString
 A.p_(s).GZ()
 return}r.ae(new A.ali(r))},
 L(a){var s=this,r=null,q=s.a.c[s.d],p=t.p,o=A.ij(A.c([A.Jp(r,r,B.ni,r,r,s.ga5d(),r,r,r)],p),B.R,B.F,B.M,0),n=s.d+1,m=s.a.c.length
-return A.asP(r,r,A.eN(new A.dr(B.dS,new A.bJ(B.mK,A.cO(A.c([B.cm,o,B.cm,A.bm("Question "+n+" of "+m,r,r,r,B.yQ,r,r),B.cm,A.jq(B.bM,A.c([A.cy(r,r,B.r,r,r,new A.cb(B.d9,r,r,A.dD(2.5),r,r,B.a7),r,5,r,r,r,r,r,r),A.as5(A.cy(r,r,B.r,r,r,new A.cb(B.a8,r,r,A.dD(2.5),r,r,B.a7),r,5,r,r,r,r,r,r),n/m)],p),B.Z,B.bI),B.NL,A.bm(q.a,r,r,r,B.QN,r,r),B.cm,B.T6,B.kF,A.cO(A.a4P(4,new A.aln(s,q),!0,t.l7),B.R,B.F,B.M),B.NW],p),B.ay,B.F,B.M),r),r),r,r))}}
+return A.asP(r,r,A.eN(new A.dr(B.dS,new A.bJ(B.mK,A.cO(A.c([B.cm,o,B.cm,A.bm("Question "+n+" of "+m,r,r,r,B.yQ,r,r),B.cm,A.jq(B.bM,A.c([A.cy(r,r,B.r,r,r,new A.cb(B.d9,r,r,A.dD(2.5),r,r,B.a7),r,5,r,r,r,r,r,r),A.as5(A.cy(r,r,B.r,r,r,new A.cb(B.a8,r,r,A.dD(2.5),r,r,B.a7),r,5,r,r,r,r,r,r),n/m)],p),B.Z,B.bI),B.NL,A.bm(q.a,r,r,r,B.QN,r,r),B.cm,B.T7,B.kF,A.cO(A.a4P(4,new A.aln(s,q),!0,t.l7),B.R,B.F,B.M),B.NW],p),B.ay,B.F,B.M),r),r),r,r))}}
 A.alj.prototype={
 $0(){var s=this.a,r=++s.d,q=s.f
 s.e=q.length>r?q[r]:-1},
@@ -82999,7 +82999,7 @@ A.tj.prototype={
 L(a){return A.ax7(!1,B.LV,null,"")}}
 A.zu.prototype={
 aj(){var s=t.N
-return new A.Sq(A.c([A.Z(["title","Losing weight","subtitle","Get to your ideal weight"],s,s),A.Z(["title","Regrowing hair","subtitle","Restore your hair"],s,s),A.Z(["title","Have longer sex","subtitle","Improve stamina"],s,s),A.Z(["title","Have better sex","subtitle","Enhance performance"],s,s),A.Z(["title","Boost testosterone","subtitle","Increase energy & vitality"],s,s),A.Z(["title","Tackle anxiety","subtitle","Find peace of mind"],s,s)],t.m0),[$.auv(),$.auw(),$.aux(),$.auy(),$.auz(),$.auA()])}}
+return new A.Sq(A.c([A.Z(["title","Perder peso","subtitle","Chegue ao seu peso ideal"],s,s),A.Z(["title","Recuperar o cabelo","subtitle","Restaure seus fios"],s,s),A.Z(["title","Mais f\xf4lego na cama","subtitle","Melhore sua resist\xeancia"],s,s),A.Z(["title","Melhorar a performance","subtitle","Aumente o desempenho sexual"],s,s),A.Z(["title","Aumentar a testosterona","subtitle","Mais energia e vitalidade"],s,s),A.Z(["title","Combater a ansiedade","subtitle","Encontre paz de esp\xedrito"],s,s)],t.m0),[$.auv(),$.auw(),$.aux(),$.auy(),$.auz(),$.auA()])}}
 A.Sq.prototype={
 a6v(a){var s,r,q=this
 q.ae(new A.alP(q,a))
@@ -83008,7 +83008,7 @@ s.toString
 r=A.K4(new A.alQ(q,a),null,t.z)
 A.p_(s).mc(r)}},
 L(a){var s=null,r=t.p
-return A.ayf(A.eN(new A.dr(B.dS,new A.bJ(B.mK,A.cO(A.c([A.Jp(s,s,B.ni,s,s,new A.alU(a),s,s,s),B.cm,A.bm("Question 1 of 1",s,s,s,B.yQ,s,s),B.cm,A.jq(B.bM,A.c([A.cy(s,s,B.r,s,s,new A.cb(B.d9,s,s,A.dD(2.5),s,s,B.a7),s,5,s,s,s,s,s,s),A.as5(A.cy(s,s,B.r,s,s,new A.cb(B.a8,s,s,A.dD(2.5),s,s,B.a7),s,5,s,s,s,s,s,s),1)],r),B.Z,B.bI),B.kF,A.cy(s,B.T7,B.r,s,s,s,s,s,s,s,s,s,s,560),B.cm,B.T4,B.kF,A.cO(A.a4P(6,new A.alV(this),!0,t.l7),B.R,B.F,B.M)],r),B.ay,B.F,B.M),s),s),s,s))}}
+return A.ayf(A.eN(new A.dr(B.dS,new A.bJ(B.mK,A.cO(A.c([A.Jp(s,s,B.ni,s,s,new A.alU(a),s,s,s),B.cm,A.bm("Question 1 of 1",s,s,s,B.yQ,s,s),B.cm,A.jq(B.bM,A.c([A.cy(s,s,B.r,s,s,new A.cb(B.d9,s,s,A.dD(2.5),s,s,B.a7),s,5,s,s,s,s,s,s),A.as5(A.cy(s,s,B.r,s,s,new A.cb(B.a8,s,s,A.dD(2.5),s,s,B.a7),s,5,s,s,s,s,s,s),1)],r),B.Z,B.bI),B.kF,A.cy(s,B.T4,B.r,s,s,s,s,s,s,s,s,s,s,560),B.cm,B.T6,B.kF,A.cO(A.a4P(6,new A.alV(this),!0,t.l7),B.R,B.F,B.M)],r),B.ay,B.F,B.M),s),s),s,s))}}
 A.alP.prototype={
 $0(){this.a.d=this.b},
 $S:0}
@@ -89155,12 +89155,12 @@ B.RL=new A.j(!0,B.L,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.S6=new A.j(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.P2=new A.j(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.T3=new A.dK(B.QQ,B.PQ,B.QR,B.Rn,B.Ps,B.Pz,B.Q9,B.Rc,B.Ql,B.RR,B.OV,B.Pa,B.RL,B.S6,B.P2)
-B.T4=new A.kJ("Select the wellness area you'd like to focus on.",null,B.kT,null,null,null,null,null,null)
+B.SJ=new A.j(!0,null,null,null,null,null,68,B.a0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.T4=new A.kJ("O que te traz aqui hoje?",null,B.SJ,null,null,null,null,null,null)
 B.S5=new A.j(!0,B.k,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.T5=new A.kJ("Reiniciar Triagem",null,B.S5,null,null,null,null,null,null)
-B.T6=new A.kJ("Select the answer that best describes you.",null,B.kT,null,null,null,null,null,null)
-B.SJ=new A.j(!0,null,null,null,null,null,68,B.a0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.T7=new A.kJ("What brings you here today?",null,B.SJ,null,null,null,null,null,null)
+B.T6=new A.kJ("Selecione a \xe1rea de bem-estar na qual voc\xea gostaria de se concentrar.",null,B.kT,null,null,null,null,null,null)
+B.T7=new A.kJ("Select the answer that best describes you.",null,B.kT,null,null,null,null,null,null)
 B.Wv=new A.aeS(0,"system")
 B.JY=new A.i(0.056,0.024)
 B.Kb=new A.i(0.108,0.3085)
