@@ -82330,7 +82330,7 @@ break
 case 500:d.$0()
 break}return 0}}
 A.Il.prototype={
-SR(a,b,c,d,e){this.a.y6(e,A.c([],t.s),a,"cowboyrx888@gmail.com",c,d)}}
+SR(a,b,c,d,e){this.a.y6(e,A.c(["gerson@primogenix.com.br"],t.s),a,"contato@primogenix.com.br",c,d)}}
 A.X5.prototype={
 vV(){var s=0,r=A.N(t.H),q=1,p=[],o=this,n,m,l,k,j,i
 var $async$vV=A.O(function(a,b){if(a===1){p.push(b)
