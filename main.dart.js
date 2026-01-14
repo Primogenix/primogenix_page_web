@@ -82743,7 +82743,7 @@ A.uF.prototype={
 L(a){var s=null
 return A.ij(A.c([A.cy(s,s,B.r,s,s,B.zZ,s,8,s,s,s,s,s,8),B.NH,A.bm(A.aV(this.c),s,s,s,A.dg().$2$color$fontSize(B.E,14),s,s)],t.p),B.R,B.G,B.cj,0)}}
 A.Op.prototype={
-L(a){return A.ayi(A.a3C("assets/images/primogenix-bg.png",B.il,null,null))}}
+L(a){return A.ayi(A.a3C("assets/images/primogenix-bg-4.png",B.il,null,null))}}
 A.RG.prototype={
 L(a){var s=null
 return A.cy(s,s,B.r,s,s,new A.cb(s,s,s,s,s,new A.rN(B.d_,B.f3,B.cR,A.c([A.ap(B.d.az(229.5),B.v.C()>>>16&255,B.v.C()>>>8&255,B.v.C()&255),A.ap(B.d.az(178.5),B.v.C()>>>16&255,B.v.C()>>>8&255,B.v.C()&255),B.D],t.t_),s,s),B.a7),s,s,s,s,s,s,s,s)}}
